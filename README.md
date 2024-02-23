@@ -2,10 +2,10 @@
 Este proyecto es una Pokedex desarrollada en React, una aplicación web que te permite explorar y conocer información detallada sobre diferentes Pokémon. La Pokedex utiliza un componente principal: PokeTarjeta, el cual es fundamental para la visualización de la información de los Pokémon.
 
 # Características
-  •	Exploración de Pokémon: Explora una amplia lista de Pokémon y accede a información detallada sobre cada uno de ellos.
-  •	Componente PokeTarjeta: Muestra una tarjeta con la información del numero del Pokémon incluyendo una imagen representativa.
-  •	View Index: Muestra una lista paginada donde aparecen por orden todos los Pokémon existentes.
-  •	View Detalles: Proporciona información adicional sobre un Pokémon específico, como estadísticas, habilidades y evoluciones.
+- Exploración de Pokémon: Explora una amplia lista de Pokémon y accede a información detallada sobre cada uno de ellos.
+- Componente PokeTarjeta: Muestra una tarjeta con la información del numero del Pokémon incluyendo una imagen representativa.
+- View Index: Muestra una lista paginada donde aparecen por orden todos los Pokémon existentes.
+- View Detalles: Proporciona información adicional sobre un Pokémon específico, como estadísticas, habilidades y evoluciones.
   
 # Tecnologías Utilizadas
   •	React
