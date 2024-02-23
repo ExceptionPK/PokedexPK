@@ -20,8 +20,8 @@ Este proyecto es una Pokedex desarrollada en React, una aplicación web que te p
 2.	Navega al directorio del proyecto.
 3.	Instala las dependencias:
 - npm i react-router-dom @fortawesome/fontawesome-free axios bootstrap reactstrap react-bootstrap-pagination-control animate.css
-5.	Inicia la aplicación con npm run dev.
-6.	Abre tu navegador y visita http://localhost:5173/ para ver la Pokedex en acción.
+4.	Inicia la aplicación con npm run dev.
+5.	Abre tu navegador y visita http://localhost:5173/ para ver la Pokedex en acción.
    
 ¡Disfruta explorando el fascinante mundo de Pokémon con esta Pokedex en React!
 
