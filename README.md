@@ -22,5 +22,5 @@ Este proyecto es una Pokedex desarrollada en React, una aplicación web que te p
 5.	Inicia la aplicación con npm run dev.
 6.	Abre tu navegador y visita http://localhost:5173/ para ver la Pokedex en acción.
    
-# ¡Disfruta explorando el fascinante mundo de Pokémon con esta Pokedex en React!
+¡Disfruta explorando el fascinante mundo de Pokémon con esta Pokedex en React!
 
