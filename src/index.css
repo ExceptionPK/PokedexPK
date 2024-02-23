@@ -1,0 +1,17 @@
+.fondo{
+    background-image: url('img/pokeFondo.jpg');
+    background-size:100%;
+}
+
+.card-hover{
+    transition: all .25s ease;
+    cursor:pointer;
+}
+
+.card-hover:hover{
+    transform: translateY(-8px) scale(1.01);
+}
+
+.link_poke{
+    text-decoration:none;
+}
