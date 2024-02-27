@@ -1,6 +1,7 @@
 .fondo{
     background-image: url('img/pokeFondo.jpg');
     background-size:100%;
+    background-attachment:fixed;
 }
 
 .card-hover{
