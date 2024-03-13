@@ -149,7 +149,7 @@ const Detalle = () => {
               </Row>
               <Row className={loadClass}>
                 <Col md='12'>
-                  <img src='/img/pokeCarga.gif' className='w-100'></img>
+                  <img src='/pokeCarga.gif' className='w-100'></img>
                 </Col>
               </Row>
 

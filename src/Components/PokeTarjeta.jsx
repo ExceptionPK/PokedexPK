@@ -33,7 +33,7 @@ const PokeTarjeta = (params) => {
   return (
     <Col sm='4' lg='3' className='mb-4'>
       <Card className={'shadow border-4 border-light ' + loadClass}>
-        <CardImg src='/img/pokeCarga.gif' height='230' className='p-3' />
+        <CardImg src='/pokeCarga.gif' height='230' className='p-3' />
       </Card>
 
       <Link className='link_poke' to={'/pokemon/' + pokemon.name}>
